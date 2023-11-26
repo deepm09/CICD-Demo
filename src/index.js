@@ -20,7 +20,7 @@ function calculate() {
       case "add":
         result = add(firstNum, secondNum);
         break;
-      case "subtract":
+      case "subtract": 
         result = subtract(firstNum, secondNum);
         break;
       case "multiply":
